@@ -2,6 +2,8 @@
 
 ![Badge Concluído](https://img.shields.io/badge/status-completed-green)
 
+![Badge Python](https://img.shields.io/badge/Python-3.x-blue)
+
 This project aims to calculate key centrality measures in an ego network from Facebook. Using data from a file (e.g., `facebook_combined.txt`), the code builds a graph and computes the following metrics:
 
 - **Degree**: The number of direct connections for each node.
@@ -29,8 +31,6 @@ This project aims to calculate key centrality measures in an ego network from Fa
   Generates visualizations with [Matplotlib](https://matplotlib.org/) and [NetworkX](https://networkx.org/). The graphs display the network structure, highlighting nodes based on the selected centrality measure (using size, color, and labels).
 
 ## Prerequisites
-
-- Python 3.x
 
 - Required Python libraries:
   - [matplotlib](https://matplotlib.org/)
