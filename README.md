@@ -29,7 +29,7 @@ The system builds a graph from a data file (e.g., facebook_combined.txt) and per
 - **Visualizations**:  
 Generate visualizations with [Matplotlib](https://matplotlib.org/) and [NetworkX](https://networkx.org/). The graphs display the network structure, highlighting nodes based on the selected centrality measure (using size, color and labels). Below is an example of the graph generated to calculate the nodes' degree in the network.
 
-  ![Graph displaying the nodes' degree in the network](https://github.com/user-attachments/assets/3de5d93c-0ef8-45d1-b528-69217af4a422)
+  ![Graph displaying the nodes' degree in the network](<img src="https://github.com/user-attachments/assets/3de5d93c-0ef8-45d1-b528-69217af4a422" width="500">)
 
 ## Technologies used
 
