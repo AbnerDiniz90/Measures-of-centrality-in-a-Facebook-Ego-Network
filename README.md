@@ -1,6 +1,6 @@
 # Social Network Analysis – Measures of Centrality
 
-![Badge Concluído](https://img.shields.io/badge/Status-Completed-green) ![Badge Python](https://img.shields.io/badge/Python-3.x-blue)
+![Badge Concluído](https://img.shields.io/badge/Status-Completed-green) ![Badge Python](https://img.shields.io/badge/Python-3483EB)
 
 # About the Project
 This project was developed for the Algorithms and Data Structures II course in the Computer Engineering program. The goal is to calculate centrality measures in a Facebook ego network.
