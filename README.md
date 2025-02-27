@@ -2,7 +2,7 @@
 
 ![Badge Concluído](https://img.shields.io/badge/Status-Completed-green) ![Badge Python](https://img.shields.io/badge/Python-3.x-blue)
 
-# Project Description
+# About the Project
 This project was developed for the Algorithms and Data Structures II course in the Computer Engineering program. The goal is to calculate centrality measures in a Facebook ego network.
 
 The system builds a graph from a data file (e.g., facebook_combined.txt) and performs structural analysis of the network by computing key metrics such as:
