@@ -1,6 +1,6 @@
 # Social Network Analysis – Measures of Centrality
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge Concluído](https://img.shields.io/badge/status-completed)
 
 This project aims to calculate key centrality measures in an ego network from Facebook. Using data from a file (e.g., `facebook_combined.txt`), the code builds a graph and computes the following metrics:
 
