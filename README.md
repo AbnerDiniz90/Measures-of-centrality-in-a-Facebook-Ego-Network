@@ -27,14 +27,15 @@ The system builds a graph from a data file (e.g., facebook_combined.txt) and per
   - Visualizing the graph with either a simple or metric-enhanced layout.
 
 - **Visualizations**:  
-  Generates visualizations with [Matplotlib](https://matplotlib.org/) and [NetworkX](https://networkx.org/). The graphs display the network structure, highlighting nodes based on the selected centrality measure (using size, color, and labels).
+Generate visualizations with [Matplotlib](https://matplotlib.org/) and [NetworkX](https://networkx.org/). The graphs display the network structure, highlighting nodes based on the selected centrality measure (using size, color and labels). Below is an example of the graph generated to calculate the nodes' degree in the network.
 
-## Prerequisites
+  ![Graph displaying the nodes' degree in the network](https://github.com/user-attachments/assets/3de5d93c-0ef8-45d1-b528-69217af4a422)
 
-- Required Python libraries:
-  - [matplotlib](https://matplotlib.org/)
-  - [networkx](https://networkx.org/)
-  - [InquirerPy](https://github.com/kazhala/InquirerPy)
+## Technologies used
+
+- [matplotlib](https://matplotlib.org/)
+- [networkx](https://networkx.org/)
+- [InquirerPy](https://github.com/kazhala/InquirerPy)
 
 
 
