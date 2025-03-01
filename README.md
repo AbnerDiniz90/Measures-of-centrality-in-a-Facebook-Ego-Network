@@ -7,7 +7,7 @@ This project was developed for the Algorithms and Data Structures II course in t
 
 The system builds a graph from a data file (e.g., facebook_combined.txt) and performs structural analysis of the network by computing key metrics such as:
 
-## Features
+## :hammer: Features
 
 - **Graph Construction**:  
   Reads the data file to create a class containing sets of nodes and a list of edges, and generates an adjacency matrix for the graph.
@@ -26,12 +26,12 @@ The system builds a graph from a data file (e.g., facebook_combined.txt) and per
   - Searching for a specific node using BFS.
   - Visualizing the graph with either a simple or metric-enhanced layout.
 
-- **Visualizations**:  
+- **📈 Visualizations**:  
 Generate visualizations with [Matplotlib](https://matplotlib.org/) and [NetworkX](https://networkx.org/). The graphs display the network structure, highlighting nodes based on the selected centrality measure (using size, color and labels). Below is an example of the graph generated to calculate the nodes' degree in the network.
 
  <img src="https://github.com/user-attachments/assets/3de5d93c-0ef8-45d1-b528-69217af4a422" width="500">
 
-## Technologies used
+##✅ Technologies used
 
 - [matplotlib](https://matplotlib.org/)
 - [networkx](https://networkx.org/)
